@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665672720557",
+    "project_id": "patika-24dac",
+    "storage_bucket": "patika-24dac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665672720557:android:0c4150be54150b39a62624",
+        "android_client_info": {
+          "package_name": "com.patika_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665672720557-h7ajvb8400cn446dvfegkficrvvsqt6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQidFs4vv7xyk8nMrCybrljmrtIdJ-2z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665672720557-h7ajvb8400cn446dvfegkficrvvsqt6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
